@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-My favorite to eat everyday.
+My favorite fruit to eat everyday.
